@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @barbbone
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning automation
-- 💞️ I’m looking to collaborate on something
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 
 <!---
 barbbone/barbbone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
